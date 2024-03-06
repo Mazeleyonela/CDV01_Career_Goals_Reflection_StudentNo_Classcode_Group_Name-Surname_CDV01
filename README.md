@@ -6,7 +6,7 @@
 
 - **Name: Yonela Mazele**
 - **Date: 06/03/2024**
-- **Current Role/Position:Sudent**
+- **Current Role/Position:Student**
 - **Field of Interest: Full-stack Developer**
 
 ### Part 1: Self-Assessment Reflection
